@@ -1,5 +1,5 @@
 GEM
-  remote: https://rubygem.org/
+  remote: https://rubygems.org/
   specs:
     actionpack (4.1.2)
       actionview (= 4.1.2)

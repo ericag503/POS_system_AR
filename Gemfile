@@ -1,4 +1,4 @@
-source "https://rubygem.org"
+source "https://rubygems.org"
 
   gem 'activerecord'
   gem 'pg'

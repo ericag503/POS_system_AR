@@ -7,6 +7,7 @@ require 'product'
 require 'cashier'
 require 'sale'
 require 'purchase'
+require 'customer'
 
 ActiveRecord::Base.establish_connection(YAML::load(File.open('./db/config.yml'))["test"])
 
